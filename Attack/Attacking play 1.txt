@@ -1,3 +1,4 @@
 This is my attacking play 1
 -- First half 3 forward
 -- Switch to 2 forwards in the 2nd half
+-- Switch to 1 forward if we score first
